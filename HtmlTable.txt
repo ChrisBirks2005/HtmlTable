@@ -1,0 +1,43 @@
+ <table class="table table-bordered table-striped text-center upgrade-table">
+                            <tbody>
+                                <tr>
+                                    <td align="center">
+                                        
+                                                                                    <table border="1" class="table downloadBasicPremiumTable">
+                                                <thead>
+                                                    <tr class="text-center">
+                                                        <th scope="col">File Name </th>
+                                                        <th scope="col">File Size </th>
+                                                    </tr>
+                                                </thead>
+                                            <tbody>
+                                            <tr>
+                                                <td>Download Speed</td>
+                                                <td align="center">Limited</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Estimated Download Time</td>
+                                                <td align="center">~ Example Minutes </td>
+                                            </tr>
+                                            <tr>
+                                                <td align="center">
+                                                    <button class="btn btn-submit-free" type="button" name="type" value="free" id="submitFree">
+                                                        <div>
+                                                            <p class="u-align-center u-text u-text-3"> <a href="/FileDirectory/File.html"> <span class="download-timer-seconds d-inline">Page Name</span>
+                                                        </div>
+                                                    </button>
+                                                </td>
+                                                <td align="center">
+                                                    <button class="btn btn-submit-free" type="button" name="type" value="free" id="submitFree">
+                                                        <div>
+                                                            <p class="u-align-center u-text u-text-3"> <a href="/FileDirectory/File.zip" download> <span class="download-timer-seconds d-inline">Download</span>
+                                                        </div>
+                                                    </button>
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                        </td>
+                                </tr>
+                            </tbody>
+                        </table>
